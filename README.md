@@ -1,2 +1,1 @@
-# hellow-world
-just another repository
+学生，学习知识！
